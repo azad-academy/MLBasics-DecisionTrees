@@ -22,11 +22,11 @@ The full tutorial is available on following links:
 
 On Medium:
 
-https://azad-wolf.medium.com/
+https://azad-wolf.medium.com/ml-basics-part-4-decision-trees-cc37d07137b2
 
 On Substack:
 
-https://azadwolf.substack.com/
+https://azadwolf.substack.com/p/ml-basics-part-4-decision-trees
 
 
 
