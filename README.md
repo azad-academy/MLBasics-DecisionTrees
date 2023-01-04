@@ -1,2 +1,37 @@
-# MLBasics-DecisionTrees
-A Lesson &amp; implementation of Decision Tree Classifier in Numpy and Python
+# ML Basics (Part-4): Decision Trees
+## How to build and Apply Decision Trees in Python using Numpy
+
+![demo](cover.png)
+
+## Requirements
+
+* Python 3
+* Numpy
+* scikit-learn (needed only for sample data generation)
+
+## Running The Notebook
+
+* Open the Notebook in Google Colab or local jupyter server
+* Install the requirements
+* Restart the kernel if necessary 
+
+
+## The tutorial 📃
+
+The full tutorial is available on following links:
+
+On Medium:
+
+https://azad-wolf.medium.com/
+
+On Substack:
+
+https://azadwolf.substack.com/
+
+
+
+
+
+
+
+
