@@ -12,7 +12,7 @@ import random
 import graphviz
 from graphviz import Digraph
 
-class Node():
+class Node:
 
     def __init__(self, constraint = None, text = None , left=None, right=None,  igain=None, label= None):
         
